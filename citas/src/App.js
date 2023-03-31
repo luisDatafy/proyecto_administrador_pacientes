@@ -10,8 +10,8 @@ function App() {
       <div className='container'>
         <div className='row'>
           <div className='one-half column'>
-
-          <Formulario></Formulario>
+            
+          <Formulario/>
 
           </div>
 
